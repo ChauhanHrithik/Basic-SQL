@@ -15,3 +15,7 @@
 4. (Join) Average prices per square meter by neighborhood in Brazil overtime
 
 ![image](https://user-images.githubusercontent.com/100343727/155892784-58f5efdb-1a7e-4cde-a189-0abc6ca12a1f.png)
+
+5. Average price of a room by neighborhood in Brazil
+
+![image](https://user-images.githubusercontent.com/100343727/155894669-e12a0c13-1bc0-42fa-85d5-8ffa0182eade.png)
