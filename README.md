@@ -8,6 +8,10 @@
 
 ![image](https://user-images.githubusercontent.com/100343727/155852954-6ac4690c-16d1-4c59-ac0d-3350046ac8fd.png)
 
-3. U.S. states Maximum and Minimum ADI percentiles rankings overtime
+3. Average prices per square meter by neighborhood in Brazil
 
-![image](https://user-images.githubusercontent.com/100343727/155853482-e2d6292a-4d95-4e59-90c6-bf8c859a93ad.png)
+![image](https://user-images.githubusercontent.com/100343727/155892669-49838180-215f-4547-9b7a-3bec17516856.png)
+
+4. (Join) Average prices per square meter by neighborhood in Brazil overtime
+
+![image](https://user-images.githubusercontent.com/100343727/155892784-58f5efdb-1a7e-4cde-a189-0abc6ca12a1f.png)
