@@ -1,8 +1,8 @@
 --Best performing stores in Iowa in term of total bottles sold
-SELECT store_number
+select store_number
 ,store_name
-,SUM(bottles_sold) AS bottles_sold
-FROM `bigquery-public-data.iowa_liquor_sales.sales`
-GROUP BY store_number
+,SUM(bottles_sold) as bottles_sold
+from `bigquery-public-data.iowa_liquor_sales.sales`
+group by store_number
 , store_name
-ORDER BY bottles_sold DESC
+order by bottles_sold desc
