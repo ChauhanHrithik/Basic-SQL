@@ -23,3 +23,7 @@
 6. Most prefered alcohols in Iowa, US
 
 ![image](https://user-images.githubusercontent.com/100343727/155955068-b99088da-54a9-4a15-ac4a-0aebd36c12da.png)
+
+7. Best performing stores in Iowa in term of total bottles sold
+
+![image](https://user-images.githubusercontent.com/100343727/155957141-c9580fac-5a7c-410e-b712-ed18a7305334.png)
