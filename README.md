@@ -19,3 +19,7 @@
 5. Average price of a room by neighborhood in Brazil
 
 ![image](https://user-images.githubusercontent.com/100343727/155894669-e12a0c13-1bc0-42fa-85d5-8ffa0182eade.png)
+
+6. Most prefered alcohol in Iowa, US
+
+![image](https://user-images.githubusercontent.com/100343727/155955068-b99088da-54a9-4a15-ac4a-0aebd36c12da.png)
