@@ -27,3 +27,7 @@
 7. Best performing stores in Iowa in term of total bottles sold
 
 ![image](https://user-images.githubusercontent.com/100343727/155957141-c9580fac-5a7c-410e-b712-ed18a7305334.png)
+
+8. Average population and ADI value of different US Locations (zipcode wise)
+
+![image](https://user-images.githubusercontent.com/100343727/155964863-79e301a7-e61e-4b68-94ee-0c91bb31594a.png)
