@@ -44,3 +44,6 @@
 
 ![image](https://user-images.githubusercontent.com/100343727/156156093-21d16fdc-1bea-4323-bc0b-b49d790292db.png)
 
+12. Top 10 places in London where most crime was commited and there share in total (percentage)
+
+![image](https://user-images.githubusercontent.com/100343727/156156899-173eaea0-3da6-4c50-bf22-2791d2feb8d4.png)
