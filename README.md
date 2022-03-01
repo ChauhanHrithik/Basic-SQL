@@ -28,10 +28,10 @@
 
 ![image](https://user-images.githubusercontent.com/100343727/155957141-c9580fac-5a7c-410e-b712-ed18a7305334.png)
 
-8. Average population and ADI value of different US Locations (zipcode wise)
+8. (Join) Average population and ADI value of different US Locations (zipcode wise)
 
 ![image](https://user-images.githubusercontent.com/100343727/155964863-79e301a7-e61e-4b68-94ee-0c91bb31594a.png)
 
-9. PPG Debt and GDP Growth of Different Countries
+9. (Join) PPG Debt and GDP Growth of Different Countries
 
 ![image](https://user-images.githubusercontent.com/100343727/156148101-7b0873aa-363d-46b3-9c51-38e31d1f95f1.png)
