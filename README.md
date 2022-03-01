@@ -35,3 +35,7 @@
 9. (Join) PPG Debt and GDP Growth of Different Countries
 
 ![image](https://user-images.githubusercontent.com/100343727/156148101-7b0873aa-363d-46b3-9c51-38e31d1f95f1.png)
+
+10. Top crimes per borough, London from 2011 to 2016
+
+![image](https://user-images.githubusercontent.com/100343727/156151889-f79fe3dc-c934-410d-a4df-14d1eb026c06.png)
