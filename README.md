@@ -39,3 +39,8 @@
 10. Top crimes per borough, London from 2008 to 2016
 
 ![image](https://user-images.githubusercontent.com/100343727/156151889-f79fe3dc-c934-410d-a4df-14d1eb026c06.png)
+
+11. Different type of crimes commited in London and there share in total (percentage)
+
+![image](https://user-images.githubusercontent.com/100343727/156156093-21d16fdc-1bea-4323-bc0b-b49d790292db.png)
+
